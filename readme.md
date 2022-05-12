@@ -1,4 +1,4 @@
-# HG-1-Bravo
+# hg_1_bravo
 
 ## Group Fox Members
 
