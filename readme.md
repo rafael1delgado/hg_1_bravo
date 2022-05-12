@@ -2,10 +2,10 @@
 
 ## Group Fox Members
 
-| Name | Alias | Location |
-| ----------- | ----------- | ----------- |
-| Jesús Ortega | Alfa | VZLA |
-| Rafael Delgado | Bravo | VZLA |
-| Víctor Kneider | Charlie | VZLA |
-| Adrian Caraballo | Delta | VZLA |
-| Paola Silva | Echo | USA |
+| Name | Location |
+| ----------- | ----------- |
+| Jesús Ortega | VZLA |
+| Rafael Delgado | VZLA |
+| Víctor Kneider | VZLA |
+| Adrian Caraballo | VZLA |
+| Paola Silva | USA |
